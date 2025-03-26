@@ -1,0 +1,17 @@
+# Table of contents
+
+* [Truemarkets](README.md)
+* [Trading](trading.md)
+* [Liquidity Provision](liquidity-provision.md)
+* [Markets](markets.md)
+* [Resolving markets](resolving-markets.md)
+* [Disputing outcomes](disputing-outcomes.md)
+* [Enshrined Oracle](enshrined-oracle.md)
+* [Bonds and Slashing](bonds-and-slashing.md)
+* [Oracle Council](oracle-council.md)
+* [Attesters](attesters.md)
+* [Governance](governance.md)
+* [Tokenomics](tokenomics.md)
+* [The Big Picture](the-big-picture.md)
+* [Market Creation Guidelines](market-creation-guidelines.md)
+* [Official Links](official-links.md)
