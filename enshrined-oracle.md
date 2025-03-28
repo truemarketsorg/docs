@@ -18,7 +18,7 @@ This escalation is arbitrated by TRUE holders who cast votes for the correct res
 
 If the community is further dissatisfied by a TRUE holder decision, they can once again dispute that outcome and escalate the matter to the highest arbiters in the protocol: Attesters.
 
-Attesters submit the final verdict for disputed markets. An attester pool is made up of 100 provably reputable individuals. When a dispute is escalated to attesters, 11 of them are randomly selected to vote on what they believe to be the market's "true" outcome (pun intended).
+Attesters submit the final verdict for disputed markets. An attester pool is currently comprised of provably reputable individuals. When a dispute is escalated to attesters, 11 of them are randomly selected to vote on what they believe to be the market's "true" outcome (pun intended).
 
 ## Oracle progression
 
