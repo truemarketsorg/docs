@@ -8,7 +8,7 @@ This includes high-ranking governance delegates, reputable founders, and other p
 
 The sybil-resistance gadget that is being described, and employed for Attesters, is called Proof of Reputation.&#x20;
 
-The genesis Attester Pool, contains individuals in the Ethereum ecosystem that have a provable history of coordinating in decentralized groups to reach consensus and vote on proposals. This behavior uniquely resembles the critical thinking necessary to make subjective assessments about arbitrary disputes through a decentralized process.
+The genesis Attester Pool, contains individuals in the Ethereum ecosystem that have a provable history of coordinating in decentralized groups to reach consensus and vote on proposals. This behavior uniquely resembles the critical thinking necessary to make subjective assessments about disputes through a decentralized process.
 
 When disputes escalate beyond a token holder decision, Attesters must submit a final verdict. Their role is to provide credibly neutral perspectives to the final layer of dispute resolution.
 
@@ -24,9 +24,7 @@ In the future, it's expected that the majority of lower level disputes and resol
 
 Attester selection is done via protocol governance.&#x20;
 
-The genesis attester list will contain approximately 100 reputable individuals in the Ethereum ecosystem. These individuals have been selected based on their social reputation or track record of participating in ecosystem governance.&#x20;
-
-Candidates can be recognized by the protocol and permissionlessly admitted to an attester pool. Once they're recognized for their reputation, the only thing needed to admit an attester candidate is to find an onchain address that is provably mappable to them. The attester candidates themselves do not need to be consulted, although there is nothing wrong with doing so.&#x20;
+The genesis attester list will contain approximately 100 reputable individuals in the Ethereum ecosystem, with an Active Attester target of 75 jurors. These individuals have been selected based on their social reputation or track record of participating in ecosystem governance.&#x20;
 
 Once a candidate is added to an attester pool, they can begin opting into the dispute resolution system. There is no obligation that these Attesters do so, but there are incentives for their participation.
 
@@ -34,7 +32,7 @@ Once a candidate is added to an attester pool, they can begin opting into the di
 
 To incentivize Attesters to opt into dispute resolution activity, the protocol employs a lottery system for Attesters that register for "jury duty" every epoch.
 
-Each epoch, a random Attester wins the lottery and receives a reward in TRUE tokens. By registering for the lottery, attesters are signalling to the protocol that they are prepared to vote on disputes if necessary.&#x20;
+Each epoch, a set of random Attesters win the lottery and receives a reward in TRUE tokens. By registering for the lottery, attesters are signalling to the protocol that they are prepared to vote on disputes if necessary.&#x20;
 
 The prize amount for the lottery winner targets a set number of active attesters every epoch, and the `prizeAdjustment` either increases or decreases, depending on the number of attesters that opt-in relative to the target.
 
