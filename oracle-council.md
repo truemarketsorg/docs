@@ -27,7 +27,7 @@ Any proposed resolution by this council can be permissionlessly challenged with 
 
 Oracle Council members are selected and compensated by the protocol to serve in their capacity. Dishonest behaviour on their part would jeopardize their positions. Any attempt at manipulation is trivially detectable and deterrable, and if the community feels as though members of the OC are acting dishonestly, they can be ejected from the protocol.
 
-What really keeps the OC honest though, is the ease in which their decisions can be challenged. Their limited power over the dispute resolution process constrains any attack vectors that can come from these protocol actors.
+Their limited power over the dispute resolution process constrains any attack vectors that can come from these protocol actors.
 
 ## Incentive allocation
 
