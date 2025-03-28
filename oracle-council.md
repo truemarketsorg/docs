@@ -21,7 +21,7 @@ The role of these specialists encompasses gathering all relevant insights necess
 
 ## Honesty assumptions
 
-The honesty assumptions surrounding the Oracle Council are not critical.  Sure, the OC servers a crucial role in Truemarkets, but their influence in the dispute resolution process is merely academic.&#x20;
+The honesty assumptions surrounding the Oracle Council are not critical.  The OC servers a crucial role in Truemarkets, but their influence in the dispute resolution process is not arbitrary.&#x20;
 
 Any proposed resolution by this council can be permissionlessly challenged with a modest bond and escalated to more neutral arbitrators.
 
@@ -35,7 +35,7 @@ Another responsibility of the Oracle Council is allocating incentives for YES/NO
 
 Given the high churn and unpredictability of prediction markets, incentivizing LPs is a tricky task. To do so requires a body that can flexibly allocate incentives across various markets based on community demand and other indicators.&#x20;
 
-Control over the allocation of incentives is limited to a predictable stream of TRUE tokens. Transparency and predictability in emissions is a priority when allocating incentives, and the Oracle Council must maintain consistency in their distribution logic.
+Control over the allocation of incentives is limited to a predictable stream of TRUE tokens. Transparency and predictability in emissions is a priority when allocating incentives, and the Oracle Council should maintain consistency in their distribution logic.
 
 ## Governance roles
 
