@@ -16,7 +16,7 @@ Below is an example image of the data in a dispute transaction on etherscan:
 
 There are three stages of arbitration in Truemarkets, with each escalation being prompted by a dispute.
 
-To challenge an initial proposal, a simple smaller bond is required. To dispute an Oracle Council decision, a larger bond must be pledged. Finally, in order to dispute a token holder vote, a wallet with at least 250,000 TRUE tokens (or equivalent vote power) must file a dispute.
+To challenge an initial proposal, a small bond is required. To dispute an Oracle Council decision, a larger bond must be pledged. Finally, in order to dispute a token holder vote, a wallet with at least 250,000 TRUE tokens (or equivalent vote power) must file a dispute.
 
 Below is an illustration with example values:
 
