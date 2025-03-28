@@ -1,7 +1,5 @@
 # Governance
 
-"_There is no governance. I love you."_
-
 In the early stages of the project, Truemarkets governance will be partially managed on snapshot, partially delegated to the Oracle Council, and partially determined through novel futarchy experiments.
 
 Due to constantly evolving standards, it is important for the protocol to remain flexible with regards to governance and be ready to adopt modern frameworks as they emerge.
