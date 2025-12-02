@@ -8,7 +8,7 @@ sidebar_position: 13
 
 Website - [Truemarkets.org](https://t.co/L5DiT8cnhQ)
 
-X (twitter) - [https://x.com/Truemarketsorg](https://x.com/TrueMarketsOrg)
+X (twitter) - [https://x.com/truemarkets](https://x.com/truemarkets)
 
 discord - [https://discord.gg/truemarkets](https://discord.gg/truemarkets)
 
