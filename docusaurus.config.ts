@@ -10,8 +10,8 @@ const config: Config = {
   // -------------------------------------------------------------------------
   // 1. Deployment Configuration
   // -------------------------------------------------------------------------
-  url: 'https://truemarketsorg.github.io',
-  baseUrl: '/docs/',
+  url: 'https://docs.truemarkets.org',
+  baseUrl: '/',
 
   organizationName: 'truemarketsorg',
   projectName: 'docs',
