@@ -7,23 +7,16 @@ slug: /
 
 # Introduction
 
-Truemarkets is a news and information source on the frontier of alternative media.
+Truemarkets is a fully onchain, yield-bearing prediction market protocol designed for trust-minimized trading and resolution. 
 
-At its core, it is a decentralized prediction market that enables users to forecast outcomes of real world events.&#x20;
+Every market’s title, resolution criteria, and approved data sources are immutably committed onchain at launch, eliminating ambiguity and ex-post manipulation.
 
-It breaks down information asymmetries pertaining to global headlines by allowing people with skin in the game to express real-time sentiment around events or news.
+All liquidity provisioning and order matching occur directly onchain, ensuring transparent price discovery and verifiable execution without reliance on centralized intermediaries.
 
-While traditional news sources propagate the opinions of key leaders, Truemarkets propagates news through the power of open markets.
+This architecture is paired with a comprehensive Optimistic Oracle framework for market resolution, enabling scalable, incentive-aligned outcomes while preserving permissionless dispute resolution.
 
-The subjective sentiment expressed through markets may not bear truth itself, but it does represent a real-time data point that increases in accuracy as more people scrutinize these markets.
+Together, these design choices give Truemarkets industry-leading decentralization and censorship-resistance, making it a robust foundation for open, global prediction markets.
 
-Truemarkets exposes the real-time sentiment behind news and fosters the search for answers by resolving prediction markets related to the underlying events.
-
-If a prediction market is a truth machine, then its “truth” is only as good as its source (oracle).&#x20;
-
-Asking a question is easy, but finding the answer is costly.&#x20;
-
-Truemarkets places bounties on truth.
 
 
 
