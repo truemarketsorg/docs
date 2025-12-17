@@ -1,30 +1,31 @@
 ---
-sidebar_position: 6
+sidebar_position: 7
 ---
 
 # Disputing outcomes
 
-In Truemarkets, disputers are basically the same participants as resolvers. Anyone who disagrees with a proposed outcome, can dispute it during the challenge window after it is proposed.
+In Truemarkets, disputers are drawn from the same permissionless participant set as resolvers. Anyone who disagrees with a proposed market resolution may dispute it during the challenge window following the proposal.
 
-Disputers play a particularly critical role in Truemarkets, they are the stewards of truth.&#x20;
+Disputers play a critical role in the protocol as stewards of truth. They serve as the first line of defense against manipulation, ensuring that the oracle system operates in an orderly and credible manner.
 
-Disputers are the first line of defence for the protocol. They prevent manipulation and ensure that the oracle operates orderly.
+To dispute a pending resolution, a participant posts a bond equal to the resolver's bond and calls the `openDispute` function on the unresolved market. The disputer must also submit a `_disputeString` describing the basis for the dispute.
 
-By posting a bond equal to that of the resolver, anyone can call the `openDispute` function on a resolution-pending market and provide a `_disputeString` containing the reasons for their dispute.
+If the dispute is upheld, the disputer's bond is returned and a reward is paid for the successful challenge.
 
-If the challenge is accepted, the disputer's bond is released and they receive a reward for the successful dispute.
-
-Below is an example image of the data in a dispute transaction on etherscan:
+Below is an example image of the data in a dispute transaction on basescan:
 
 ![](/img/disputing-outcomes-1.png)
 
-There are three stages of arbitration in Truemarkets, with each escalation being prompted by a dispute.
+Truemarkets supports a three-stage arbitration process, with each escalation triggered by an unresolved or contested dispute:
 
-To challenge an initial proposal, a small bond is required. To dispute an Oracle Council decision, a larger bond must be pledged. Finally, in order to dispute a token holder vote, a wallet with at least 250,000 TRUE tokens (or equivalent vote power) must file a dispute.
-
-Below is an illustration with example values:
+1. **Initial Challenge** — A resolution proposal may be challenged by posting a relatively small bond.
+2. **Oracle Council Appeal** — Disputing an Oracle Council decision requires a larger bond.
+3. **Token Holder Vote** — To dispute the outcome of a token holder vote, the disputing wallet must hold at least 250,000 TRUE tokens (or equivalent voting power).
 
 ![](/img/disputing-outcomes-2.png)
+
+This tiered arbitration structure balances accessibility with escalating economic guarantees, ensuring that only strongly justified disputes advance to higher-resolution layers.
+
 
 
 
