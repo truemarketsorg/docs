@@ -1,57 +1,46 @@
 ---
-sidebar_position: 9
+sidebar_position: 10
 ---
 
 # Oracle Council
 
-The Oracle Council is a governance body in Truemarkets, as well as arbiters of low level disputes.
+The Oracle Council (OC) is a governance body within Truemarkets and serves as the primary arbiter for low-level disputes. It operates as a specialist committee under the Truth Oracle framework, providing informed judgment and protocol stewardship during the early stages of the system.
 
-The Oracle Council serves multiple functions in Truemarkets:
+## Responsibilities
 
-* Create markets (initially)
-* resolve low level disputes
-* allocate incentives
-* define certain parameters
+The Oracle Council fulfills several core functions within Truemarkets:
 
-## Insights in dispute resolution
+- **Market Creation (Genesis Phase)** — Creating markets in accordance with the Market Creation Guidelines, informed by community input and market insights.
+- **Low-Level Dispute Resolution** — Arbitrating initial disputes and proposing resolutions when markets are challenged.
+- **Parameter Definition** — Defining and adjusting select market- and oracle-related parameters during the protocol's early governance phase.
 
-In the genesis phase of this project, market creation is limited to Oracle Council members. These members will create markets based on community suggestions and market insights, in adherence to the Market Creation Guidelines.
+## Role in Dispute Resolution
 
-The OC is a Specialist Committee as defined by the Truth Oracle framework. They provide insights to the discourse surrounding disputes.&#x20;
+During the genesis phase, market creation is restricted to Oracle Council members. These members curate markets based on community suggestions while adhering strictly to the protocol's market creation standards.
 
-In the ideal case, their proposed resolutions would reflect the most subjectively accurate outcome expected from the community.&#x20;
+As a specialist committee, the Oracle Council contributes informed perspectives to dispute resolution. Its role is to gather and evaluate all relevant information necessary to render a reasoned judgment. In the ideal case, Oracle Council resolutions reflect the most subjectively accurate outcome as expected by the broader community.
 
-The role of these specialists encompasses gathering all relevant insights necessary to cast an informed vote in the dispute resolution process. Of all the arbitrators in the protocol, the Oracle Council contributes the most informed opinion in a market's resolution path (assuming they are acting honestly).
+Of all arbitrators in the system, the Oracle Council is expected to provide the most informed and context-aware opinion in a market's resolution path—assuming honest participation.
 
-## Honesty assumptions
+## Honesty Assumptions and Trust Model
 
-The honesty assumptions surrounding the Oracle Council are not critical.  The OC servers a crucial role in Truemarkets, but their influence in the dispute resolution process is not arbitrary.&#x20;
+The security of Truemarkets does not rely on strong honesty assumptions about the Oracle Council. While the OC plays a critical role, its authority is intentionally constrained.
 
-Any proposed resolution by this council can be permissionlessly challenged with a modest bond and escalated to more neutral arbitrators.
+All Oracle Council decisions may be permissionlessly challenged with a modest bond and escalated to increasingly neutral arbitrators. As a result, the Council's influence over final outcomes is limited and non-arbitrary.
 
-Oracle Council members are selected and compensated by the protocol to serve in their capacity. Dishonest behaviour on their part would jeopardize their positions. Any attempt at manipulation is trivially detectable and deterrable, and if the community feels as though members of the OC are acting dishonestly, they can be ejected from the protocol.
+Oracle Council members are selected by the protocol to act in the system's best interest. If the community determines that OC members are acting in bad faith, they may be ejected by governance.
 
-Their limited power over the dispute resolution process constrains any attack vectors that can come from these protocol actors.
+These constraints significantly limit the attack surface associated with Oracle Council participation.
 
-## Incentive allocation
+## Governance Responsibilities
 
-Another responsibility of the Oracle Council is allocating incentives for YES/NO liquidity and prediction staking.&#x20;
+During the genesis phase, the Oracle Council may assume additional governance responsibilities, such as defining market-level and oracle-related parameters. These responsibilities are expected to be progressively relaxed or decentralized as Truemarkets governance matures.
 
-Given the high churn and unpredictability of prediction markets, incentivizing LPs is a tricky task. To do so requires a body that can flexibly allocate incentives across various markets based on community demand and other indicators.&#x20;
+### Genesis Oracle Council members
 
-Control over the allocation of incentives is limited to a predictable stream of TRUE tokens. Transparency and predictability in emissions is a priority when allocating incentives, and the Oracle Council should maintain consistency in their distribution logic.
-
-## Governance roles
-
-In the genesis phase of the protocol, the Oracle Council may also be tasked with additional governance responsibilities that can be relaxed as the protocol's governance matures, i.e.) defining market and oracle related parameters.
-
-
-
-Genesis Oracle Council members:&#x20;
-
-* [https://x.com/llamaonthebrink](https://x.com/llamaonthebrink)&#x20;
-* [https://x.com/mrinconcruz](https://x.com/mrinconcruz)
-* Truemarkets AI agent (Trudy)
-* [https://x.com/0xTangle](https://x.com/0xTangle)
-* [https://x.com/lumbergdoteth](https://x.com/lumbergdoteth)
+- [https://x.com/llamaonthebrink](https://x.com/llamaonthebrink)
+- [https://x.com/mrinconcruz](https://x.com/mrinconcruz)
+- [https://x.com/fakesmallcc](https://x.com/fakesmallcc)
+- [https://x.com/0xTangle](https://x.com/0xTangle)
+- [https://x.com/lumbergdoteth](https://x.com/lumbergdoteth)
 
