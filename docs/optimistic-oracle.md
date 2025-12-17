@@ -2,9 +2,7 @@
 sidebar_position: 8
 ---
 
-# Enshrined Oracle
-
-## Optimistic Oracle
+# Optimistic Oracle
 
 Truemarkets uses a dispute resolution implementation which follows the [Truth Oracle](https://truth-oracle.gitbook.io/truth-oracle) framework.
 
