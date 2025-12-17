@@ -4,29 +4,17 @@ sidebar_position: 2
 
 # Trading
 
-Truemarkets is a binary prediction market, meaning that a market must reduce down to a question with yes/no answers.
+Truemarkets is a binary prediction market, meaning each market resolves to a single, clearly defined yes-or-no question.
 
-Outcomes are priced in real-time based on the free-market perceived odds of various results. They are priced by traders and market makers who provide YES and NO token liquidity.
+Market outcomes are priced in real time based on free-market perceived probabilities. Pricing is determined by traders and market makers who supply liquidity for YES and NO outcome tokens, enabling continuous price discovery.
 
-When a market is resolved, the token corresponding to the correct resolution is redeemable, and the opposing token expires worthless.
+Upon market resolution, the token corresponding to the correct outcome becomes redeemable, while the opposing token expires worthless. For example, if a market resolves to YES, each YES token is redeemable for 1 $TYD, and each NO token expires worthless—and vice versa.
 
-E.g.) If a market resolves to YES, then every 1 YES token becomes redeemable for $1, while every NO token expires worthless, and vice versa.
+Trading of YES and NO tokens on Truemarkets is fully non-custodial. All trades execute directly onchain via a custom-built Uniswap v4 hook. At no point do Truemarkets contracts take custody of, or exercise control over, users’ YES or NO tokens.
 
-Trading YES/NO tokens is completely non-custodial in Truemarkets. All trading is done directly onchain through Uniswap V3. At no point do the Truemarkets contracts have access to, or control over, the trading of YES/NO tokens.
+To express a view on a market, users simply purchase the token corresponding to their preferred outcome. 
 
-To predict the outcome for a market, users simply purchase the token corresponding to the outcome they prefer. If a user purchases YES tokens for 50c and the market resolves to YES, the user can redeem their YES tokens for $1 each, effectively capturing 100% profit from the trade (minus fees).
-
-To purchase YES or NO tokens, users simply approve their USDC for spend and place a bet. Directly above the buy button, the trade summary displays the exact quote, conversion rate, and price impact for the trade.
-
-![](/img/trading.png)
-
-In the image above, for a $300 trade, the user:
-
-* receives a quote of 1502.6 YES tokens&#x20;
-* has an average price of $0.20 per YES token&#x20;
-* causes a price impact of 0.35% and moves the price of YES to $0.21
-
-
+For instance, if a user buys YES tokens at 0.50 TYD and the market resolves to YES, those tokens can be redeemed for 1 $TYD each—representing a 100% return on the position, net of fees.
 
 
 
