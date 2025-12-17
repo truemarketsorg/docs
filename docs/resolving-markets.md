@@ -18,7 +18,7 @@ Resolvers who correctly finalize a market to YES or NO receive a protocol-define
 
 The resolver role is fully permissionless. Anyone monitoring the real-world events relevant to a market may post a bond and propose a resolution once the market question has been answered.
 
-[insert graphic #1]
+![](/img/resolving-markets.png)
 
 In the vast majority of cases, markets resolve to either YES or NO. In rare circumstances—such as event cancellation, a draw, or a “push”—a cancelled/draw outcome may be proposed. If a market is successfully cancelled, all YES and NO tokens are redeemable at their minted value of $0.50 each.
 
