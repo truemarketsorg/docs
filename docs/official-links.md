@@ -1,16 +1,16 @@
 ---
-sidebar_position: 13
+sidebar_position: 14
 ---
 
 # Official Links
 
 ## Links
 
-Website - [Truemarkets.org](https://t.co/L5DiT8cnhQ)
+Website - [Truemarkets.org](https://truemarkets.org)
 
-X (twitter) - [https://x.com/truemarkets](https://x.com/truemarkets)
+X (Twitter) - [https://x.com/truemarkets](https://x.com/truemarkets)
 
-discord - [https://discord.gg/truemarkets](https://discord.gg/truemarkets)
+Discord - [https://discord.gg/truemarkets](https://discord.gg/truemarkets)
 
 Brand assets - [https://truemarkets.org/assets](https://truemarkets.org/assets)
 
@@ -18,12 +18,10 @@ Oracle whitepaper - [https://truth-oracle.gitbook.io/truth-oracle](https://truth
 
 Github - [https://github.com/truemarketsorg](https://github.com/truemarketsorg)
 
+## Contract Addresses
 
+TRUE: 0x21CFCFc3d8F98fC728f48341D10Ad8283F6EB7AB
 
-&#x20;   TRUE: 0x21CFCFc3d8F98fC728f48341D10Ad8283F6EB7AB
+stakingRewardsTRUE: 0x1a40621C54330940B081F925aA027458a4c035eD
 
-&#x20;   stakingRewardsTRUE: 0x1a40621C54330940B081F925aA027458a4c035eD
-
-&#x20;   stakingRewardsTRUE/ETH: 0x688F5B490Edb7F466A89a6Db4fb30829558aF014
-
-&#x20;  &#x20;
+stakingRewardsTRUE/ETH: 0x688F5B490Edb7F466A89a6Db4fb30829558aF014
