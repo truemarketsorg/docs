@@ -12,7 +12,7 @@ X (Twitter) - [https://x.com/truemarkets](https://x.com/truemarkets)
 
 Discord - [https://discord.gg/truemarkets](https://discord.gg/truemarkets)
 
-Brand assets - [https://truemarkets.org/assets](https://truemarkets.org/assets)
+Brand assets - [https://truemarkets.org/en/brand](https://truemarkets.org/en/brand)
 
 Oracle whitepaper - [https://truth-oracle.gitbook.io/truth-oracle](https://truth-oracle.gitbook.io/truth-oracle)
 
