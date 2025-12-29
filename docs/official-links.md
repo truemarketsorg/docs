@@ -8,8 +8,6 @@ sidebar_position: 14
 
 Website - [Truemarkets.org](https://truemarkets.org)
 
-X (Twitter) - [https://x.com/truemarkets](https://x.com/truemarkets)
-
 Discord - [https://discord.gg/truemarkets](https://discord.gg/truemarkets)
 
 Brand assets - [https://truemarkets.org/en/brand](https://truemarkets.org/en/brand)
